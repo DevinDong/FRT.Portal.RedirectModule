@@ -1,0 +1,10 @@
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\FHX.Booking.RedirectModule.dll.config
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\FHX.Booking.RedirectModule.dll
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\FHX.Booking.RedirectModule.pdb
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\Arch.CFX.dll
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\Arch.CFX.pdb
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\obj\Debug\FHX.Booking.RedirectModule.dll
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\obj\Debug\FHX.Booking.RedirectModule.pdb
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\Framework.Logging.V2.API.dll
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\bin\Debug\Framework.Logging.V2.API.pdb
+D:\tfs\taocan\Booking\Mainline\code\FHXBooking.Default\Publish\FHX.Booking.RedirectModule\obj\Debug\FHX.Booking.RedirectModule.csprojResolveAssemblyReference.cache

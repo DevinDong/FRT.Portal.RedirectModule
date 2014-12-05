@@ -1,0 +1,9 @@
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\FRT.Portal.RedirectModule.dll.config
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\FRT.Portal.RedirectModule.dll
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\FRT.Portal.RedirectModule.pdb
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\Arch.CFX.pdb
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\Framework.Logging.V2.API.pdb
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\obj\Release\FRT.Portal.RedirectModule.dll
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\obj\Release\FRT.Portal.RedirectModule.pdb
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\Arch.CFX.dll
+D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Release\Framework.Logging.V2.API.dll
