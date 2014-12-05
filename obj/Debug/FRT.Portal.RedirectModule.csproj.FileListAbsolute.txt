@@ -1,8 +1,0 @@
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Debug\FRT.Portal.RedirectModule.dll.config
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Debug\FRT.Portal.RedirectModule.dll
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Debug\FRT.Portal.RedirectModule.pdb
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Debug\Arch.CFX.pdb
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\bin\Debug\Framework.Logging.V2.API.pdb
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\obj\Debug\FRT.Portal.RedirectModule.csprojResolveAssemblyReference.cache
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\obj\Debug\FRT.Portal.RedirectModule.dll
-D:\Users\sjdong\Documents\Visual Studio 2013\Projects\FRT.Portal.RedirectModule\obj\Debug\FRT.Portal.RedirectModule.pdb
